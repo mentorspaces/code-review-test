@@ -1,2 +1,3 @@
 # code-review-test
-Simple Piece of Code for Review and Comments
+
+Please review the following code sample of React.js Code and provide feedback.
